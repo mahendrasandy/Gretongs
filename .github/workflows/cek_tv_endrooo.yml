@@ -115,5 +115,5 @@ jobs:
       - name: Commit File Baru ke GitHub
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Auto-sync: Pengecekan manual & perbaikan filter RCTI+"
+          commit_message: "Auto-sync: Pengecekan manual playlist done!!"
           file_pattern: 'tv_endrooo_aktif.m3u'
