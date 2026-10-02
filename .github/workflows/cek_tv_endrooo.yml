@@ -1,0 +1,119 @@
+name: Auto-Check Playlist tv_endrooo (Manual)
+
+on:
+  workflow_dispatch:
+    # Script sekarang HANYA berjalan jika tombol "Run workflow" ditekan manual
+
+permissions:
+  contents: write
+
+jobs:
+  filter-playlist:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Siapkan Environment Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          
+      - name: Install modul requests
+        run: pip install requests
+
+      - name: Filter URL Aktif Dinamis (Multithreading)
+        run: |
+          cat << 'EOF' > checker.py
+          import requests
+          import concurrent.futures
+          import re
+
+          INPUT_FILE = "tv_endrooo.m3u"
+          OUTPUT_FILE = "tv_endrooo_aktif.m3u"
+
+          def check_channel(block):
+              url = block[-1]
+              info_lines = "\n".join(block[:-1])
+              
+              # Tambahan Accept header agar server tidak menolak koneksi
+              headers = {
+                  "User-Agent": "VLC/3.0.18",
+                  "Accept": "*/*" 
+              }
+
+              ua_match = re.search(r'http-user-agent=([^\n\r]+)', info_lines, re.IGNORECASE) or re.search(r'user-agent=([^&\n\r]+)', info_lines, re.IGNORECASE)
+              if ua_match: headers["User-Agent"] = ua_match.group(1).strip()
+
+              ref_match = re.search(r'http-referrer=([^\n\r]+)', info_lines, re.IGNORECASE) or re.search(r'referer=([^&\n\r]+)', info_lines, re.IGNORECASE)
+              if ref_match: headers["Referer"] = ref_match.group(1).strip()
+
+              if "|" in url:
+                  parts = url.split("|")
+                  url = parts[0]
+                  if "user-agent=" in parts[1].lower():
+                      ua_m = re.search(r'user-agent=([^&]+)', parts[1], re.IGNORECASE)
+                      if ua_m: headers["User-Agent"] = ua_m.group(1).strip()
+                  if "referer=" in parts[1].lower():
+                      ref_m = re.search(r'referer=([^&]+)', parts[1], re.IGNORECASE)
+                      if ref_m: headers["Referer"] = ref_m.group(1).strip()
+
+              # PARAMETER RANGE DIHAPUS: Agar server RCTI+/GTV tidak merespons dengan 400 Bad Request.
+
+              try:
+                  res = requests.get(url, headers=headers, timeout=5, stream=True)
+                  status = res.status_code
+                  res.close()
+                  
+                  if status in [200, 206, 302, 401, 403]:
+                      return True, block
+              except:
+                  pass
+              
+              return False, block
+
+          try:
+              with open(INPUT_FILE, "r", encoding="utf-8") as f:
+                  lines = [line.strip() for line in f if line.strip()]
+          except FileNotFoundError:
+              print(f"Error: {INPUT_FILE} tidak ditemukan!")
+              exit(1)
+
+          blocks = []
+          current_block = []
+          
+          for line in lines:
+              if line.startswith("#EXTINF"):
+                  current_block = [line]
+              elif line.startswith("#") and not line.startswith("#EXTM3U"):
+                  if current_block: current_block.append(line)
+              elif line.startswith("http"):
+                  if current_block:
+                      current_block.append(line)
+                      blocks.append(current_block)
+                      current_block = []
+
+          print(f"Memulai pengecekan {len(blocks)} channel secara paralel...")
+
+          active_blocks = []
+          with concurrent.futures.ThreadPoolExecutor(max_workers=20) as executor:
+              results = executor.map(check_channel, blocks)
+              for is_active, blk in results:
+                  if is_active:
+                      active_blocks.append("\n".join(blk))
+
+          with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+              f.write("#EXTM3U\n")
+              f.write("\n".join(active_blocks) + "\n")
+
+          print(f"Selesai! File {OUTPUT_FILE} telah diperbarui.")
+          EOF
+          
+          python checker.py
+
+      - name: Commit File Baru ke GitHub
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-sync: Pengecekan manual & perbaikan filter RCTI+"
+          file_pattern: 'tv_endrooo_aktif.m3u'
