@@ -4,11 +4,14 @@ def ekstrak_playlist(url_sumber, daftar_pencarian, nama_file_output):
     print(f"Mengunduh database dari {url_sumber}...\n")
     
     try:
-        # Menambahkan User-Agent agar tidak dicurigai sebagai bot jahat oleh server sumber
-        headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
+        # Menyamar sebagai aplikasi pemutar IPTV Android (misal: OTT Navigator atau ExoPlayer)
+        headers = {
+            'User-Agent': 'OTT Navigator/1.6.7.5 (Linux;Android 11)',
+            'Accept': '*/*'
+        }
         
-        # stream=True menjaga RAM tetap aman jika file sumber berukuran puluhan MB
-        response = requests.get(url_sumber, headers=headers, stream=True, timeout=30)
+        # Tambahkan parameter allow_redirects=True agar Python mengikuti jejak tautan rebrand.ly
+        response = requests.get(url_sumber, headers=headers, stream=True, timeout=30, allow_redirects=True)
         response.raise_for_status()
         
         tangkap_url = False
