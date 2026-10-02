@@ -1,0 +1,44 @@
+import requests
+
+def cari_channel_iptvorg(kata_kunci):
+    # Menggunakan URL M3U utama dari repositori iptv-org
+    url_database = "https://iptv-org.github.io/iptv/index.m3u"
+    print(f"Mengunduh dan mencari '{kata_kunci}' di database iptv-org...")
+    
+    try:
+        # stream=True digunakan agar memori tidak penuh karena ukuran file M3U sangat besar
+        response = requests.get(url_database, stream=True)
+        response.raise_for_status()
+        
+        ditemukan = False
+        tangkap_url = False
+        nama_channel = ""
+        
+        # Membaca file baris demi baris secara langsung
+        for baris in response.iter_lines():
+            if baris:
+                teks_baris = baris.decode('utf-8')
+                
+                # Jika baris adalah info saluran (#EXTINF) dan mengandung kata kunci
+                if teks_baris.startswith("#EXTINF") and kata_kunci.lower() in teks_baris.lower():
+                    # Mengambil nama saluran di akhir string
+                    nama_channel = teks_baris.split(',')[-1].strip()
+                    tangkap_url = True
+                
+                # Baris tepat di bawah #EXTINF adalah URL streaming-nya
+                elif tangkap_url and not teks_baris.startswith("#"):
+                    print(f"\n[DITEMUKAN] {nama_channel}")
+                    print(f"URL: {teks_baris}")
+                    
+                    tangkap_url = False
+                    ditemukan = True
+                    
+        if not ditemukan:
+            print(f"\nSaluran dengan kata kunci '{kata_kunci}' tidak ditemukan atau sedang offline.")
+            
+    except Exception as e:
+        print(f"Gagal terhubung ke database: {e}")
+
+if __name__ == "__main__":
+    # Masukkan kata kunci saluran yang ingin dicari
+    cari_channel_iptvorg("spotv")
