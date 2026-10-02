@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FTVOne.tw@SD" tvg-logo="https://i.imgur.com/HBT2o0I.png" group-title="General",FTV One (720p) [Not 24/7]
+http://seb.sason.top/ptv/ftv.php?id=dy
+#EXTINF:-1 tvg-id="KompasTV.id@SD" tvg-logo="https://i.imgur.com/bD6UHeZ.png" http-referrer="https://www.dens.tv/" http-user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="News",Kompas TV [Geo-blocked]
+https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
+#EXTINF:-1 tvg-id="SPOTV2.id@SD" tvg-logo="https://i.imgur.com/YD8fbTH.png" group-title="Sports",SPOTV 2 (720p)
+http://58.8.186.128:10006/bysid/2630
+#EXTINF:-1 tvg-id="SPOTV.id@SD" tvg-logo="https://i.imgur.com/HaoVsm5.png" group-title="Sports",SPOTV (720p)
+http://58.8.186.128:10006/bysid/2614
+#EXTINF:-1 tvg-id="TVOne.uk@SD" tvg-logo="https://i.imgur.com/qkbRslf.png" group-title="Undefined",TV One (576p)
+http://92.114.85.72:8000/play/a070
+#EXTINF:-1 tvg-id="TVOneGlobal.pk@SD" tvg-logo="https://i.imgur.com/Xn3XxMY.png" group-title="Undefined",TV One Global (576p)
+http://103.250.28.74:8000/play/a04i/index.m3u8
+#EXTINF:-1 tvg-id="tvOne.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/960px-TvOne_2023.svg.png" http-referrer="https://www.dens.tv/" http-user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",tvOne [Geo-blocked]
+https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
+#EXTINF:-1 tvg-id="TVONENicaragua.ni@SD" tvg-logo="https://i.imgur.com/FNk6rdz.png" group-title="Music",TVONE Nicaragua (720p) [Not 24/7]
+https://hdbox.chunklistv.com/live?stream=tvone
