@@ -58,7 +58,7 @@ if __name__ == "__main__":
     url_target = "https://iptv-org.github.io/iptv/index.m3u"
     
     # 2. Tambahkan kata kunci channel yang ingin Anda saring
-    channel_pilihan = ["bein", "espn", "sky sport"]
+    channel_pilihan = ["max", "usee", "biznet", "TVRI", "Galaxy", "History", "Champions", "National"]
     
     # 3. Nama file hasil kompilasi
     file_hasil = "playlist_custom.m3u"
