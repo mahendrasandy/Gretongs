@@ -58,7 +58,7 @@ def ekstrak_playlist(url_sumber, daftar_pencarian, nama_file_output):
 
 if __name__ == "__main__":
     # 1. Ganti URL ini dengan sumber M3U mentah apa pun (Pastebin, Github Raw, dll)
-    url_target = "https://urfan.id/stb"
+    url_target = "https://bit.ly/pengembarahitamV2"
     
     # 2. Tambahkan kata kunci channel yang ingin Anda saring
     channel_pilihan = []
