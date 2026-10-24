@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="LIVE" tvg-logo="https://i.postimg.cc/XNKPdJJf/images.jpg" group-title="🔴WHATSAPP",085333640016
 https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=8e59605c-9093-4b0f-a379-161a08d53705&sub=t2
+#EXTINF:-1 tvg-id="LIVE" tvg-logo="https://i.imgur.com/gktNVB9.jpeg" group-title="🔴LIVE", LIVE
+https://tg0d1gr4ugmtwgczdrpbufa5demmcpf5gkce.100ycdn.com/live1.quickscoreboardz.com/live/channel13/playlist.m3u8?wsSecret=92e38b6a39004fdb41f10113a28b84ac&wsABSTime=1792785324&wsSession=13d25984735c1fb433c5741e-179274215473783&wsIPSercert=f02ab771a11314ccf70994aed4bacb11&wsBindIP=2&wsserid=1168311488326283907
 #EXTINF:-1 tvg-id="LIVE" tvg-logo="https://i.imgur.com/gktNVB9.jpeg" group-title="🔴LIVE", LIVE 3
   ==========PLAYLIST IPTV PRO BY ZACK===========
 #EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN5reR_YAbbtGqawoaCyr1EMcDnthW8l2D3w&s", MNCTV 
@@ -20,7 +22,7 @@ https://flv.intechmedia.net/live/ch107.m3u8
 #EXTINF:-1 tvg-id="019" tvg-name="019" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_mentaritv.png" group-title="🔴NASIONAL",Mentari TV
 http://nextgenz.my.id/event/pidio/play.mpd?id=8237&type=dash
 #EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeiWv-pfeDr-OZkVvMbwEcryrWApBmLYMZQy6rUefZWQQxB1oOVnzR6WX3&s=10", ANTV 
-http://tvratu.my.id/vid/index.mpd?id=782&type=dash
+http://tvratu.my.id/nissa/index.mpd?id=782&type=dash
 #EXTINF:-1 tvg-id="TransTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSos5wXjL-QZ7iievuU7LoDI22gaf4kCd6FUSOTxf0KupjYixJmv2IP12M&s=10" group-title="🔴NASIONAL",Trans TV
 https://live.cnnindonesia.com/transtv/smil:transtv/chunklist_w2685575259_b744100_sleng.m3u8
 #EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTexTvPrfG8E3lo-tcCfBSOb50TDzjLUyVVFHeiAZC1vPFQPoRHlp7moVg&s=10",TRANS 7
@@ -51,22 +53,6 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
 #EXTINF:-1 group-title="🔴NASIONAL" tvg-id="GARUDATV.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmNB9OGzinChxmzFzLV0VlS6qsNMtGsO5hTGVYjn4Sf_zB2M6UF8neicI&s=10",Garuda TV HD
 https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://www.citypng.com/public/uploads/preview/hd-nickelodeon-nick-splash-logo-icon-png-701751694710415awui6lgjdm.png?v=2025061816" group-title="🔴KARTUN ANAK" tvg-id="Nickelodeon", Nickelodeon 
-https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/index.mpd
-#EXTINF:-1 tvg-id="Nick Jr." tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/1200px-Nickelodeon_Junior.png" group-title="🔴KARTUN ANAK", Nickelodeon Junior
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/index.mpd
-#EXTINF:-1 tvg-id="ZooMoo" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_39.png" group-title="🔴KARTUN ANAK",ZooMoo
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/index.mpd
-#EXTINF:-1 tvg-id="Moonbug" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-title="🔴KARTUN ANAK" tvg-logo="https://www.visionplus.id/images/repository/909/162909-LOGO-m.png",Moonbug 
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/198f7febb48c4c909d62977d88c195b0/index.mpd
-#EXTINF:-1 tvg-id="DreamWorks" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://e7.pngegg.com/pngimages/393/234/png-clipart-dreamworks-animation-animated-film-logo-dreamworks-poppy-text-film.png" group-title="🔴KARTUN ANAK",Dreamworks HD 
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7518da9041c4414d86f173daa719152e/index.mpd
-#EXTINF:-1 tvg-id="Kids TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Logo_Kids_TV.png" group-title="🔴KARTUN ANAK",Kids TV 
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
-#EXTINF:-1 tvg-id="CBeebies" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://ichef.bbci.co.uk/images/ic/1920xn/p0fpxchz.png" group-title="🔴KARTUN ANAK",Cbeebies 
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/index.mpd
-#EXTINF:-1 group-title="🔴KARTUN ANAK" tvg-id="Animax" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://w7.pngwing.com/pngs/386/630/png-transparent-animax-sony-yay-anime-television-sony-s-networks-india-ebay-korea-co-ltd-blue-text-trademark.png",Animax
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
 #EXTINF:-1 tvg-id="FOX SPORTS.mx"  tvg-logo="https://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" group-title="🔴PREMIUM SPORT", FOX SPORTS 1
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
 #EXTINF:-1 tvg-id="FOX SPORTS 2.mx"  tvg-logo="https://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" group-title="🔴PREMIUM SPORT", FOX SPORTS 2
@@ -298,14 +284,14 @@ http://albastargolden.net/live/63EV73W6WL4R1XU/RoRSlXpt26/551299.ts
 #EXTINF:-1 group-title="🔴AF SPORT" tvg-logo="https://i.imgur.com/CWpV1Il.png",BEIN 9 sd
 http://albastargolden.net/live/63EV73W6WL4R1XU/RoRSlXpt26/551300.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="🔴AF SPORT",ESPN SD
-http://gpxm88.top/BiGXCLD-2025-MAIO/xgAAA7R3FDxVP/354116.ts
+http://asxc.pro:80/live/887429/DNFgcu/71913.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="🔴AF SPORT",ESPN 2 HD
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/37105.ts
+http://asxc.pro:80/live/887429/DNFgcu/71922.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VCPTlBD.png" group-title="🔴AF SPORT",ESPN 3 HD
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/62745.ts
+http://asxc.pro:80/live/887429/DNFgcu/71909.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="🔴AF SPORT",ESPN 4 HD
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/85335.ts
+http://asxc.pro:80/live/887429/DNFgcu/71960.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="🔴AF SPORT",ESPN 5 HD
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/37098.ts
+http://asxc.pro:80/live/887429/DNFgcu/71955.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yOgmmCy.png" group-title="🔴AF SPORT",ESPN 6 HD
-http://play.dnsrot.vip:80/live/vanessanook/vinr390x8y/129623.ts
+http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8
