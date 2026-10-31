@@ -2,9 +2,11 @@
 #EXTINF:-1 tvg-id="LIVE" tvg-logo="https://i.postimg.cc/XNKPdJJf/images.jpg" group-title="🔴WHATSAPP",085333640016
 https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=8e59605c-9093-4b0f-a379-161a08d53705&sub=t2
 #EXTINF:-1 tvg-id="LIVE" tvg-logo="https://i.imgur.com/gktNVB9.jpeg" group-title="🔴LIVE", LIVE
-https://tg0j1gr4ugmtwgczdqcbqgr5dgmmcpf5gkce.100ycdn.com/live1.quickscoreboardz.com/live/channel2/playlist.m3u8?wsSecret=981259c4ef0420a5e6149495c06e382d&wsABSTime=1793319624&wsSession=b93dcef1517110ac9cffefbe-179327644853302&wsIPSercert=f02ab771a11314ccf70994aed4bacb11&wsBindIP=2&wsserid=1168312122851561605
+https://live2.domaincdn.cc/livecdn/channel-19.m3u8?auth_key=3000001793362124-0-0-3b34871ccb0afce9e8df2df4ede3a071
+#EXTINF:-1 tvg-id="LIVE" tvg-logo="https://i.imgur.com/gktNVB9.jpeg" group-title="🔴LIVE", LIVE 2
+https://tg0k0gr3uomttgr31hct1gczdgp3pptwzc3jt.100ycdn.com/live1.quickscoreboardz.com/live/channel9/playlist.m3u8?wsSecret=61645bf05c4088d9bf5f6300a3a53e6a&wsABSTime=1793405451&wsSession=c8833e2307ac85f5b909cadb-179336225339701&wsIPSercert=f02ab771a11314ccf70994aed4bacb11&wsBindIP=2&wsserid=1177046549500337104
 #EXTINF:-1 tvg-id="LIVE" tvg-logo="https://i.imgur.com/gktNVB9.jpeg" group-title="🔴LIVE", LIVE 3
-  ==========PLAYLIST IPTV PRO BY ZACK===========
+https://tg0k6gr3uomttgr31hctwgczdncjufisg17ufgr.100ycdn.com/live1.quickscoreboardz.com/live/channel12/playlist.m3u8?wsSecret=9f04b5d35398251963ed4b538cf32d5d&wsABSTime=1793405530&wsSession=74c849d2acc2a7faf8c8f8c5-179336237761610&wsIPSercert=f02ab771a11314ccf70994aed4bacb11&wsBindIP=2&wsserid=19560480166232750
 #EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN5reR_YAbbtGqawoaCyr1EMcDnthW8l2D3w&s", MNCTV 
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 #EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtUOUlxejAsHRp5clHl6TFuxKb64H1oe6VKw&s", RCTI 
