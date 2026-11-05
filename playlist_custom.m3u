@@ -1,6 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="LIVE" tvg-logo="https://i.postimg.cc/XNKPdJJf/images.jpg" group-title="🔴WHATSAPP",085333640016
 https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=8e59605c-9093-4b0f-a379-161a08d53705&sub=t2
+#EXTINF:-1 tvg-id="LIVE" tvg-logo="https://i.imgur.com/gktNVB9.jpeg" group-title="🔴LIVE", LIVE 1
+https://tg0p1gr4uqmtt8y41hcjzgezdrmmcpf5gkce.100ycdn.com/live1.quickscoreboardz.com/live/channel24/playlist.m3u8?wsSecret=39bb3cb55e0241b754f2fd4114943ec6&wsABSTime=1793839084&wsSession=e78e8c14fb9c8e485dcefff0-179379591130736&wsIPSercert=f02ab771a11314ccf70994aed4bacb11&wsBindIP=2&wsserid=1168309213681259573
+#EXTINF:-1 tvg-id="LIVE" tvg-logo="https://i.imgur.com/gktNVB9.jpeg" group-title="🔴LIVE", LIVE 2
+https://live2.domaincdn.cc/livecdn/channel-23.m3u8?auth_key=3000001793796027-0-0-edd6bfea70541f0e1461d73fe6f57362
+#EXTINF:-1 tvg-id="LIVE" tvg-logo="https://i.imgur.com/gktNVB9.jpeg" group-title="🔴LIVE", LIVE 3
+https://tg0p1gr4uqmtt8y41hcjzgezdrmmcpf5gkce.100ycdn.com/live1.quickscoreboardz.com/live/channel22/playlist.m3u8?wsSecret=f659fd0cdff2a62ca01287614509ab2a&wsABSTime=1793839295&wsSession=4bc9e5799bed63e5b2e56503-179379613591642&wsIPSercert=f02ab771a11314ccf70994aed4bacb11&wsBindIP=2&wsserid=1168309218210984056
 #EXTINF:-1 tvg-id="LIVE" tvg-logo="https://i.imgur.com/gktNVB9.jpeg" group-title="🔴LIVE", LIVE 4
   ==========PLAYLIST IPTV PRO BY ZACK===========
 #EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN5reR_YAbbtGqawoaCyr1EMcDnthW8l2D3w&s", MNCTV 
