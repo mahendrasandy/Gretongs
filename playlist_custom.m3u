@@ -1,14 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="LIVE" tvg-logo="https://i.postimg.cc/XNKPdJJf/images.jpg" group-title="🔴WHATSAPP",085333640016
 https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=8e59605c-9093-4b0f-a379-161a08d53705&sub=t2
-#EXTINF:-1 tvg-id="LIVE" tvg-logo="https://i.imgur.com/gktNVB9.jpeg" group-title="🔴LIVE", LIVE 1
-https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001793881491-0-0-691af9509b8b473edaa363e0b31feb28
-#EXTINF:-1 tvg-id="LIVE" tvg-logo="https://i.imgur.com/gktNVB9.jpeg" group-title="🔴LIVE", LIVE 2
-https://live2.domaincdn.cc/livecdn/channel-6.m3u8?auth_key=3000001793881723-0-0-7d029e8ef88f9a9ce63d45d259b0a2b8
-#EXTINF:-1 tvg-id="LIVE" tvg-logo="https://i.imgur.com/gktNVB9.jpeg" group-title="🔴LIVE", LIVE 3
-https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001793881788-0-0-848220c6dc523544bbec10f3a28eb452
 #EXTINF:-1 tvg-id="LIVE" tvg-logo="https://i.imgur.com/gktNVB9.jpeg" group-title="🔴LIVE", LIVE 4
-https://live2.domaincdn.cc/livecdn/channel-24.m3u8?auth_key=3000001793881840-0-0-5f1f2f3ab88ccd32705839f59d3770a5
+  ==========PLAYLIST IPTV PRO BY ZACK===========
 #EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN5reR_YAbbtGqawoaCyr1EMcDnthW8l2D3w&s", MNCTV 
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 #EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtUOUlxejAsHRp5clHl6TFuxKb64H1oe6VKw&s", RCTI 
@@ -18,9 +12,9 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrLlsooVB274zIGMEQ1kquZCBAK4cnLgnF0d3oRiJV4yM2pTDH8WeKDVE&s=10", iNews 
 https://bintangstreaming.my.id/000/rcti.php/.m3u8?id=inewstv
 #EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYGGEPkFbOq2zNIQS4Imeq4avBxklOVTmQ5p8n3-9o3D-GdIMAwZ_HkeZz&s=10", SCTV
-https://bintangstreaming.my.id/forsat23/pido.php/.mpd?id=204
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
 #EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFAzJ3ZGSY8Xale1mCBlZZ7zDtfxveuxOaEg&s", INDOSIAR 
-https://bintangstreaming.my.id/forsat23/pido.php/.mpd?id=205
+https://vidsemar.pages.dev/terraluna3/205.mpd
 #EXTINF:-1 tvg-logo="https://i.imghippo.com/files/gZyT4952CYw.jpg" group-title="🔴NASIONAL",VTV HD
 https://flv.intechmedia.net/live/ch107.m3u8
 #EXTINF:-1 tvg-id="019" tvg-name="019" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_mentaritv.png" group-title="🔴NASIONAL",Mentari TV
@@ -227,10 +221,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/in
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
 #EXTINF:-1 group-title="🔴PREMIUM MOVIE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_9.png",Buddy star
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
-#EXTINF:-1 group-title="🔴PREMIUM MOVIE" tvg-logo="https://github.com/Qingtvnew/test/raw/main/galaxy.png", Galaxy
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/Qingtvnew/test/raw/main/galaxy-premium.png" group-title="🔴PREMIUM MOVIE",Galaxy Premium
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
 #EXTINF:0 group-title="🔴PREMIUM MOVIE" tvg-logo="https://bit.ly/3jPj9HC",Rock Action
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
 #EXTINF:0 group-title="🔴PREMIUM MOVIE" tvg-logo="https://bit.ly/3GDKsO7",Rock Entertainment
