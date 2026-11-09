@@ -1,6 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="LIVE" tvg-logo="https://i.postimg.cc/XNKPdJJf/images.jpg" group-title="🔴WHATSAPP",085333640016
 https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=8e59605c-9093-4b0f-a379-161a08d53705&sub=t2
+#EXTINF:-1 tvg-id="LIVE" tvg-logo="https://i.imgur.com/gktNVB9.jpeg" group-title="🔴LIVE", JAVA UTD vs PERSIB BANDUNG
+https://ddy1-cf.sbbol1011play.sbs/auth%3Df35d8e3308fda2d8264ee4798e6582f221d6342a9b943571ab820262757e2421fa92d8fc2cc4511dd5faacb6a9acbb681584a92f91ab8c5f7bd7e225e894436a0792ba05fcbde214c96f793341b6ba756e0bfa698f35acb39d3d5ea7167bbdc19f2f268a7f49ae6995c29189361b47b8ffbae67fe47d5e9ec53c45d0e56fb3583aabc1f3c01dea32f9db2a382d49d6a3a20913dfe7ff11ea918b5ffea022cff412956ace7fa8a76e6ccd1043979c7207%26cid%3Dm_P3-hwsV6RpIG6LRRDuh261107%26_v%3D2%26_r%3DbJDc_e%26_vis%3D6da021b5c9bad5554c79c3294d783c1b654b333ec9cbb507a0850f773cbc2482%26_vvs%3D2448f398dd84963f689d8b7fd9586d45d7ac233224edb0bbcec42c98cd548402%26_vas%3D66949319ddfdb6486e07218e58b82a84216326e2e02844453d4f4852efae0654/app/c452005.m3u8
+#EXTINF:-1 tvg-id="LIVE" tvg-logo="https://i.imgur.com/gktNVB9.jpeg" group-title="🔴LIVE", KUCHING CITY vs SELANGOR FC
+https://tg0t0gr4ugmtwgczdcqjqgr5n45djq31unmutqiwsg45ucpzzr3mnp7ozr3d4.100ycdn.com/live1.quickscoreboardz.com/live/channel69/playlist.m3u8?wsSecret=d6650f4de53db9f04d6024333418d9a7&wsABSTime=1794180143&wsSession=73830d62b35f6d2b7587df8c-179413696526814&wsIPSercert=f02ab771a11314ccf70994aed4bacb11&wsBindIP=2&wsserid=1168287746140338896
+#EXTINF:-1 tvg-id="LIVE" tvg-logo="https://i.imgur.com/gktNVB9.jpeg" group-title="🔴LIVE", JOHOR DARUL TA'ZIM vs DPMM FC
+https://tg0t0gr4ugmtwgczdcqjqgr5n45djq31unmutqiwsg45ucpzzr3mnp7ozr3d4.100ycdn.com/live1.quickscoreboardz.com/live/channel26/playlist.m3u8?wsSecret=2ddff4f6faf9b730f7ec5130f49942ef&wsABSTime=1794180272&wsSession=b4f691dedba9f1a7dec2c7b3-179413707501074&wsIPSercert=f02ab771a11314ccf70994aed4bacb11&wsBindIP=2&wsserid=1168287746149776142
 #EXTINF:-1 tvg-id="LIVE" tvg-logo="https://i.imgur.com/gktNVB9.jpeg" group-title="🔴LIVE", LIVE 4
   ==========PLAYLIST IPTV PRO BY ZACK===========
 #EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN5reR_YAbbtGqawoaCyr1EMcDnthW8l2D3w&s", MNCTV 
@@ -51,6 +57,52 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
 #EXTINF:-1 group-title="🔴NASIONAL" tvg-id="GARUDATV.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmNB9OGzinChxmzFzLV0VlS6qsNMtGsO5hTGVYjn4Sf_zB2M6UF8neicI&s=10",Garuda TV HD
 https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="🔴MALAYSIA",TV 1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd?id=1
+#EXTINF:-1 tvg-logo="https://tv2.rtm.gov.my/assets/img/TV2.png" group-title="🔴MALAYSIA",TV 2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd?id=2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/okey.png" group-title="🔴MALAYSIA",TV Okey
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=1
+#EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-256,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="🔴MALAYSIA",TV 3
+http://tv.cloudcdn.me:80/live.ts?channelId=93776&uid=10223&deviceMac=00:1A:79:99:EC:D3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tv6.png" group-title="🔴MALAYSIA",TV 6
+http://tv.cloudcdn.me:80/live.ts?channelId=93775&uid=10223&deviceMac=00:1A:79:99:EC:D3
+#EXTINF:-1 group-title="🔴MALAYSIA" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/LogoTV9_2006.png/revision/latest?cb=20180922122502",9 TV
+http://tv.cloudcdn.me:80/live.ts?channelId=93777&uid=10223&deviceMac=00:1A:79:99:EC:D3
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/TVS_logo_(2024).svg/revision/latest/scale-to-width-down/250?cb=20240614044004" group-title="🔴MALAYSIA", TVS Sarawak
+http://tv.cloudcdn.me:80/live.ts?channelId=132173&uid=10223&deviceMac=00:1A:79:99:EC:D3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/sukan.png" group-title="🔴MALAYSIA",Sukan RTM
+http://tv.cloudcdn.me:80/live.ts?channelId=107253&uid=10223&deviceMac=00:1A:79:99:EC:D3
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/DidikTV_KPM_%282021%29.svg/revision/latest/scale-to-width-down/250?cb=20210529054804" group-title="🔴MALAYSIA",DIDIK NTV7
+http://tv.cloudcdn.me:80/live.ts?channelId=93771&uid=10223&deviceMac=00:1A:79:99:EC:D3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=original" group-title="🔴MALAYSIA",Astro Prima
+http://tv.cloudcdn.me:80/live.ts?channelId=93734&uid=10223&deviceMac=00:1A:79:99:EC:D3
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f2/Astro_Aura_2020.png/revision/latest?cb=20221031072603&path-prefix=vi" group-title="🔴MALAYSIA",Astro Aura
+http://tv.cloudcdn.me:80/live.ts?channelId=132149&uid=10223&deviceMac=00:1A:79:99:EC:D3
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20240923154743" group-title="🔴MALAYSIA",Astro Ceria
+http://tv.cloudcdn.me:80/live.ts?channelId=93762&uid=10223&deviceMac=00:1A:79:99:EC:D3
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Astro_Ria_Plus_%283D%29.png/revision/latest?cb=20260403170024" group-title="🔴MALAYSIA",Astro Ria
+http://tv.cloudcdn.me:80/live.ts?channelId=132152&uid=10223&deviceMac=00:1A:79:99:EC:D3
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fe/Astro_Tutor_TV_logo.png/revision/latest?cb=20230515101105&path-prefix=vi" group-title="🔴MALAYSIA",Astro Tutor
+http://tv.cloudcdn.me:80/live.ts?channelId=132153&uid=10223&deviceMac=00:1A:79:99:EC:D3
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Astro_Rania_%28Nov_2024%29.png/revision/latest?cb=20241121174652" group-title="🔴MALAYSIA",Astro Rania
+http://tv.cloudcdn.me:80/live.ts?channelId=132151&uid=10223&deviceMac=00:1A:79:99:EC:D3
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7c/Astro_Oasis_HD_Black.png/revision/latest/scale-to-width-down/732?cb=20240225150814&path-prefix=vi" group-title="🔴MALAYSIA",Astro Oasis
+http://tv.cloudcdn.me:80/live.ts?channelId=93735&uid=10223&deviceMac=00:1A:79:99:EC:D3
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Astro_AOD.png/revision/latest/scale-to-width-down/250?cb=20240923152721" group-title="🔴MALAYSIA",Astro Aod
+http://tv.cloudcdn.me:80/live.ts?channelId=132147&uid=10223&deviceMac=00:1A:79:99:EC:D3
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Astro_AEC_HD_logo.png/revision/latest/smart/width/386/height/259?cb=20240923125133" group-title="🔴MALAYSIA",Astro Aec
+http://tv.cloudcdn.me:80/live.ts?channelId=132479&uid=10223&deviceMac=00:1A:79:99:EC:D3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/onmy.png" group-title="🔴MALAYSIA",Oh My Ceria!
+https://f9169865dbd747b4a24602e856a9c7a2.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH7_CERIA/dash.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/dramah.png" group-title="🔴MALAYSIA",Drama Mantap
+https://tglmp02.akamaized.net/out/v1/f8119e31a0804f178a7d1f566d16600a/manifest.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/fmantap.png" group-title="🔴MALAYSIA",Filem Mantap
+https://tglmp01.akamaized.net/out/v1/35baec6f2f1f47f89dde431d388d91ee/manifest.mpd
+#EXTINF:-1 tvg-logo="https://resizer-vortals.eco.astro.com.my/tr:w-64px,h-64px,q-80,f-webp/https://media.astroawani.com/awani/media/uploads/logo/2025-11/astroawani_logo.webp" group-title="🔴MALAYSIA",Astro Awani
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8?c
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/drama.png" group-title="🔴MALAYSIA",Drama Hotpot
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
 #EXTINF:-1 tvg-id="FOX SPORTS.mx"  tvg-logo="https://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" group-title="🔴PREMIUM SPORT", FOX SPORTS 1
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
 #EXTINF:-1 tvg-id="FOX SPORTS 2.mx"  tvg-logo="https://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" group-title="🔴PREMIUM SPORT", FOX SPORTS 2
@@ -67,10 +119,10 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
 #EXTINF:-1 tvg-id="TNT 4" tvg-logo="https://i.ibb.co.com/yJ8TWnb/Tntsports4.png group-title="🔴PREMIUM SPORT",TNT SPORTS 4
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="🔴PREMIUM SPORT",SPOTV 1 Cignal
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="🔴PREMIUM SPORT",SPOTV 2 Cignal
-https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="🔴PREMIUM SPORT",SPOTV 1
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="🔴PREMIUM SPORT",SPOTV 2
+https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 #EXTINF:-1 tvg-id="MNCSports.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png" group-title="🔴PREMIUM SPORT",Sportstars 
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 #EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-name="Sportstars 2 HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png" group-title="🔴PREMIUM SPORT", SPORTSTARS 2
@@ -107,10 +159,6 @@ http://main.light-ott.net/play/live.php?mac=A0:BB:3E:02:3D:A8&stream=959357&exte
 http://main.light-ott.net/play/live.php?mac=A0:BB:3E:02:3D:A8&stream=959361&extension=ts&play_token=MZ10TjUtsd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vcz8G0u.jpeg" group-title="🔴PREMIUM SPORT", SPOR TV 7
 http://main.light-ott.net/play/live.php?mac=A0:BB:3E:02:3D:A8&stream=959364&extension=ts&play_token=7zjNDQV97a
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Fubo_Sports.png/revision/latest?cb=20250117221217" group-title="🔴PREMIUM SPORT", FUBO SPORTS 1
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Fubo_Sports.png/revision/latest?cb=20250117221217" group-title="🔴PREMIUM SPORT", FUBO SPORTS 2
-http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 #EXTINF:-1 group-title="🔴PREMIUM SPORT" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/t1k26d1616932441.png", SPORT 1 
 https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
 #EXTINF:-1 group-title="🔴PREMIUM SPORT" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/68s5x31616932507.png", SPORT 2 
@@ -196,7 +244,7 @@ http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1757579&e
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/Poland/PL OD HBO MAX/OD HBO MAX.png" group-title="🔴PREMIUM MOVIE",HBOMAX PREMIERE 10 
 http://nexusconnects.org:80/play/live.php?mac=A0:BB:3E:03:BA:6C&stream=1757584&extension=ts&play_token=CoEcrMgOai
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://get.perfecttv.net/logo/mnplus.png" group-title="🔴PREMIUM MOVIE", MN Plus
-https://get.perfecttv.net/dashVision.mpd?username=vip_sgnep6z9&password=dBlA1nxq&channel=mnplus
+https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://get.perfecttv.net/logo/mnx.png" group-title="🔴PREMIUM MOVIE", MNX HD
 https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 #EXTINF:-1 tvg-id="99991621" tvg-name="Universal Movies" tvg-logo="https://image.xumo.com/v1/channels/channel/99991621/168x168.png?type=color_onBlack" group-title="🔴PREMIUM MOVIE", Universal Movies
@@ -205,60 +253,58 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99991621/hls/master.m3u8?ads.xumo_cha
 https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 #EXTINF:-1 group-title="🔴PREMIUM MOVIE" tvg-logo="http://openboxv8s.com/india/star_movies_in_hd.jpg",Star Movies HD
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="IMC - [Channel 14].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/ybiuTBa.png?raw=true" group-title="🔴PREMIUM MOVIE", INDONESIA MOVIE CHANEL
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/movie/flix.jpeg",flix
 http://013tv.com:8080/F33848/cbd9779b/165095
 #EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/QwBGLzK.png" group-title="🔴PREMIUM MOVIE",AVA Family
 https://familyhls.avatv.live/hls/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="🔴PREMIUM MOVIE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_7.png",Originals
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
-#EXTINF:-1 group-title="🔴PREMIUM MOVIE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_8.png",Cineedge
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
-#EXTINF:-1 group-title="🔴PREMIUM MOVIE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_10.png", Superrix
-https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/index.mpd
-#EXTINF:-1 group-title="🔴PREMIUM MOVIE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_6.png",Uniques
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
-#EXTINF:-1 group-title="🔴PREMIUM MOVIE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_9.png",Buddy star
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
-#EXTINF:0 group-title="🔴PREMIUM MOVIE" tvg-logo="https://bit.ly/3jPj9HC",Rock Action
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
-#EXTINF:0 group-title="🔴PREMIUM MOVIE" tvg-logo="https://bit.ly/3GDKsO7",Rock Entertainment
-https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/index.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/amazonmovies.png" group-title="🔴PREMIUM MOVIE",Amazon Movies
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/oynu8tcxfa/out/v1/ab567b96658c4d84ae1fc6c67110987c/cenc.mpd
 #EXTINF:-1 tvg-id="MyCinemaEurope.ch" tvg-name="My Cinema Europe HD" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502977_tvchannels_v1.jpg" group-title="🔴PREMIUM MOVIE",MY CINEMA EUROPE
 https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&userid=lite&chname=My_Cinema_Europe_HD
-#EXTINF:-1 group-title="🔴PREMIUM MOVIE" tvg-logo="https://github.com/Qingtvnew/test/raw/main/axn.png", AXN 
-http://cdnbal1.indihometv.com/atm/DASH/axn/manifest.mpd
-#EXTINF:-1 group-title="🔴PREMIUM MOVIE" tvg-logo="https://github.com/Qingtvnew/test/raw/main/Thrill.png", Thrill
-https://cdnbal1.indihometv.com/atm/DASH/thrill/thrill-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 group-title="🔴PREMIUM MOVIE" tvg-logo="https://github.com/Qingtvnew/test/raw/main/kix.png", KIX 
-https://cdnbal1.indihometv.com/atm/DASH/kix/manifest.mpd
 #EXTINF:-1 tvg-id="PersianaJunior.fr" tvg-logo="https://i.imgur.com/zeKHZYG.png" group-title="🔴PREMIUM MOVIE",Persiana Junior
 https://junhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hgIro9r.png" group-title="🔴PREMIUM MOVIE",PERSIANA CINEMA HD
 https://cinehls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tvn.png" group-title="🔴PREMIUM MOVIE",TVN
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd
-#EXTINF:-1 group-title="🔴PREMIUM MOVIE" tvg-id="TVN MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzplC68PhjEepXf9THtdelWYaNWbodgJMVd6dhJ2aqVg&s",TVN MOVIES
-http://202.150.161.212:5000/live/channel30/playlist.m3u8
-#EXTINF:-1 group-title="🔴PREMIUM MOVIE" tvg-logo="https://iili.io/FsyZuff.md.png", CCM
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index.mpd
-#EXTINF:-1 group-title="🔴PREMIUM MOVIE" tvg-logo="https://github.com/Qingtvnew/test/raw/main/celestial-movies.png", Celestial Movies 
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/runtime.png" group-title="🔴PREMIUM MOVIE",Runtime Accion
+https://run-rt-ac.otteravision.com/run/rt_ac/rt_ac_720.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/runtime.png" group-title="🔴PREMIUM MOVIE",Runtime Terror
 https://run-ruthr.otteravision.com/run/ruthr/ruthr_720.m3u8
-#EXTINF:-1 group-title="🔴PREMIUM MOVIE" tvg-logo="https://github.com/Qingtvnew/test/raw/main/ZEE-B.png", Zee Bioskop 
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/index.mpd
-#EXTINF:-1 tvg-id="zee-bollywood" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/EqDlflgi.png" group-title="🔴PREMIUM MOVIE", Zee Bollywood
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd
-#EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/diYkUOnX.png" group-title="🔴PREMIUM MOVIE", Zee Anmol Cinema
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd
-#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/HivVrdof.png" group-title="🔴PREMIUM MOVIE", And Pictures 
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd
-#EXTINF:-1 group-title="🔴PREMIUM MOVIE" tvg-logo="https://github.com/Qingtvnew/test/raw/main/hits.png", HITS 
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/333a9658ed6a4424a92e319114fb7111/index.mpd
-#EXTINF:-1 group-title="🔴PREMIUM MOVIE" tvg-logo="https://github.com/Qingtvnew/test/raw/main/HITSMOVIES.png", HITS Movies 
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/de93893d01e6446daaf052a7fec694fc/index.mpd
+#EXTINF:-1 tvg-name="True4U" tvg-logo="https://www.true4u.com/images/true4u-thumbnail-gray.jpg" group-title="🔴PREMIUM MOVIE",True24
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/24/24.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Miramax.svg/960px-Miramax.svg.png?_=20221029144826" group-title="🔴PREMIUM MOVIE",Miramax
+https://linear-798.frequency.stream/dist/tcltv/798/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Sony_Movies_Logo.png/960px-Sony_Movies_Logo.png?_=20240926210157" group-title="🔴PREMIUM MOVIE",Sony Movies
+https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Sony_Movies_Logo.png/960px-Sony_Movies_Logo.png?_=20240926210157" group-title="🔴PREMIUM MOVIE",Sony One Action Hits
+https://89514e758f814907be6d14bbc0aa66b7.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-800-UK-SONYONEACTIONHITS-LG_UK/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Sony_Movies_Logo.png/960px-Sony_Movies_Logo.png?_=20240926210157" group-title="🔴PREMIUM MOVIE",Sony One Hits 
+https://9f8e2ffcd87f4c469be7194e48f84874.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-802-UK-SONYONECOMEDYHITS-LG_UK/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Sony_Movies_Logo.png/960px-Sony_Movies_Logo.png?_=20240926210157" group-title="🔴PREMIUM MOVIE",Sony One Thriller
+https://52aad07d9d4f4d479d9b27e08ddf9e8b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-808-UK-SONYONETHRILLERTV-LG_UK/playlist.m3u8
+#EXTINF:-1 tvg-id="BritBox Mysteries" tvg-name="BritBox Mysteries" tvg-logo="https://i.imgur.com/PJdzoLN.png" group-title="🔴PREMIUM MOVIE",BritBox Mysteries
+https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist.m3u8
+#EXTINF:-1 group-title="🔴NOW SPORTS" tvg-logo="https://i.imgur.com/gihoKa3.png",NOW SPORTS 1
+http://noparking.pro/live/mario.marano%40hotmail.co.uk/ITPowwgoh6/224812.ts
+#EXTINF:-1 group-title="🔴NOW SPORTS" tvg-logo="https://i.imgur.com/5OJN6K3.png",NOW SPORTS 2
+http://noparking.pro/live/mario.marano%40hotmail.co.uk/ITPowwgoh6/224811.ts
+#EXTINF:-1 group-title="🔴NOW SPORTS" tvg-logo="https://i.imgur.com/1vIN9gq.png",NOW SPORTS 3
+http://noparking.pro/live/mario.marano%40hotmail.co.uk/ITPowwgoh6/224810.ts
+#EXTINF:-1 group-title="🔴NOW SPORTS" tvg-logo="https://i.imgur.com/nEhtHv5.png",NOW SPORTS 4
+http://noparking.pro/live/mario.marano%40hotmail.co.uk/ITPowwgoh6/224809.ts
+#EXTINF:-1 group-title="🔴NOW SPORTS" tvg-logo="https://i.imgur.com/chiuZkX.png",NOW SPORTS 5
+http://noparking.pro/live/mario.marano%40hotmail.co.uk/ITPowwgoh6/224808.ts
+#EXTINF:-1 group-title="🔴NOW SPORTS" tvg-logo="https://i.imgur.com/W9kbqti.png",NOW SPORTS 6
+http://noparking.pro/live/mario.marano%40hotmail.co.uk/ITPowwgoh6/224807.ts
+#EXTINF:-1 tvg-id="MAX Sport 1 HD.bg" tvg-chno="17" tvg-logo="https://maxsport.live/wp-content/uploads/2024/07/max-sport-1-logo-1024x182.png" group-title="🔴NOW SPORTS",Max Sport 1 HD
+https://cdn11.glebul.com/hlsfhd/hd-max-sport-1-hd.m3u8?e=1794199787&hash=v8bxyoojujGYftNUvS0eag
+#EXTINF:-1 tvg-id="MAX Sport 2 HD.bg" tvg-chno="18" tvg-logo="https://maxsport.live/wp-content/uploads/2024/07/max-sport-2-logo-1024x182.png" group-title="🔴NOW SPORTS",Max Sport 2 HD
+https://cdn11.glebul.com/hlsfhd/hd-max-sport-2-hd.m3u8?e=1794199800&hash=2fMe3XFgS_6adRTJy4i9NQ
+#EXTINF:-1 tvg-id="MAX Sport 3 HD.bg" tvg-chno="19" tvg-logo="https://maxsport.live/wp-content/uploads/2024/07/max-sport-3-logo-1024x182.png" group-title="🔴NOW SPORTS",Max Sport 3 HD
+https://cdn11.glebul.com/hlsfhd/hd-max-sport-3-hd.m3u8?e=1794199814&hash=M_1JwMwzk5MbflcagD3RGg
+#EXTINF:-1 tvg-id="MAX Sport 4 HD.bg" tvg-chno="20" tvg-logo="https://maxsport.live/wp-content/uploads/2024/07/max-sport-4-logo-1024x182.png" group-title="🔴NOW SPORTS",Max Sport 4 HD
+https://cdn11.glebul.com/hlsfhd/hd-max-sport-4-hd.m3u8?e=1794199828&hash=mwhO9bh3MtSFI8Q3TvxQHg
+#EXTINF:-1 group-title="🔴HUB SPORTS" tvg-logo="https://i.imgur.com/brCgczI.png",HUB SPORTS 5
+        ========SPORT HD========
 #EXTINF:-1 group-title="🔴AF SPORT" tvg-logo="https://i.imgur.com/CWpV1Il.png",BEIN 1 sd
 http://albastargolden.net/live/63EV73W6WL4R1XU/RoRSlXpt26/987011.ts
 #EXTINF:-1 group-title="🔴AF SPORT" tvg-logo="https://i.imgur.com/CWpV1Il.png",BEIN 2 sd
