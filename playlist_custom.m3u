@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="LIVE" tvg-logo="https://i.postimg.cc/XNKPdJJf/images.jpg" group-title="🔴WHATSAPP",085333640016
 https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=8e59605c-9093-4b0f-a379-161a08d53705&sub=t2
-#EXTINF:-1 tvg-id="LIVE" tvg-logo="https://i.imgur.com/gktNVB9.jpeg" group-title="🔴LIVE", JAVA UTD vs PERSIB BANDUNG
-https://ddy1-cf.sbbol1011play.sbs/auth%3Df35d8e3308fda2d8264ee4798e6582f221d6342a9b943571ab820262757e2421fa92d8fc2cc4511dd5faacb6a9acbb681584a92f91ab8c5f7bd7e225e894436a0792ba05fcbde214c96f793341b6ba756e0bfa698f35acb39d3d5ea7167bbdc19f2f268a7f49ae6995c29189361b47b8ffbae67fe47d5e9ec53c45d0e56fb3583aabc1f3c01dea32f9db2a382d49d6a3a20913dfe7ff11ea918b5ffea022cff412956ace7fa8a76e6ccd1043979c7207%26cid%3Dm_P3-hwsV6RpIG6LRRDuh261107%26_v%3D2%26_r%3DbJDc_e%26_vis%3D6da021b5c9bad5554c79c3294d783c1b654b333ec9cbb507a0850f773cbc2482%26_vvs%3D2448f398dd84963f689d8b7fd9586d45d7ac233224edb0bbcec42c98cd548402%26_vas%3D66949319ddfdb6486e07218e58b82a84216326e2e02844453d4f4852efae0654/app/c452005.m3u8
-#EXTINF:-1 tvg-id="LIVE" tvg-logo="https://i.imgur.com/gktNVB9.jpeg" group-title="🔴LIVE", KUCHING CITY vs SELANGOR FC
-https://tg0t0gr4ugmtwgczdcqjqgr5n45djq31unmutqiwsg45ucpzzr3mnp7ozr3d4.100ycdn.com/live1.quickscoreboardz.com/live/channel69/playlist.m3u8?wsSecret=d6650f4de53db9f04d6024333418d9a7&wsABSTime=1794180143&wsSession=73830d62b35f6d2b7587df8c-179413696526814&wsIPSercert=f02ab771a11314ccf70994aed4bacb11&wsBindIP=2&wsserid=1168287746140338896
-#EXTINF:-1 tvg-id="LIVE" tvg-logo="https://i.imgur.com/gktNVB9.jpeg" group-title="🔴LIVE", JOHOR DARUL TA'ZIM vs DPMM FC
-https://tg0t0gr4ugmtwgczdcqjqgr5n45djq31unmutqiwsg45ucpzzr3mnp7ozr3d4.100ycdn.com/live1.quickscoreboardz.com/live/channel26/playlist.m3u8?wsSecret=2ddff4f6faf9b730f7ec5130f49942ef&wsABSTime=1794180272&wsSession=b4f691dedba9f1a7dec2c7b3-179413707501074&wsIPSercert=f02ab771a11314ccf70994aed4bacb11&wsBindIP=2&wsserid=1168287746149776142
 #EXTINF:-1 tvg-id="LIVE" tvg-logo="https://i.imgur.com/gktNVB9.jpeg" group-title="🔴LIVE", LIVE 4
   ==========PLAYLIST IPTV PRO BY ZACK===========
 #EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN5reR_YAbbtGqawoaCyr1EMcDnthW8l2D3w&s", MNCTV 
@@ -283,28 +277,6 @@ https://9f8e2ffcd87f4c469be7194e48f84874.mediatailor.us-west-2.amazonaws.com/v1/
 https://52aad07d9d4f4d479d9b27e08ddf9e8b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-808-UK-SONYONETHRILLERTV-LG_UK/playlist.m3u8
 #EXTINF:-1 tvg-id="BritBox Mysteries" tvg-name="BritBox Mysteries" tvg-logo="https://i.imgur.com/PJdzoLN.png" group-title="🔴PREMIUM MOVIE",BritBox Mysteries
 https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist.m3u8
-#EXTINF:-1 group-title="🔴NOW SPORTS" tvg-logo="https://i.imgur.com/gihoKa3.png",NOW SPORTS 1
-http://noparking.pro/live/mario.marano%40hotmail.co.uk/ITPowwgoh6/224812.ts
-#EXTINF:-1 group-title="🔴NOW SPORTS" tvg-logo="https://i.imgur.com/5OJN6K3.png",NOW SPORTS 2
-http://noparking.pro/live/mario.marano%40hotmail.co.uk/ITPowwgoh6/224811.ts
-#EXTINF:-1 group-title="🔴NOW SPORTS" tvg-logo="https://i.imgur.com/1vIN9gq.png",NOW SPORTS 3
-http://noparking.pro/live/mario.marano%40hotmail.co.uk/ITPowwgoh6/224810.ts
-#EXTINF:-1 group-title="🔴NOW SPORTS" tvg-logo="https://i.imgur.com/nEhtHv5.png",NOW SPORTS 4
-http://noparking.pro/live/mario.marano%40hotmail.co.uk/ITPowwgoh6/224809.ts
-#EXTINF:-1 group-title="🔴NOW SPORTS" tvg-logo="https://i.imgur.com/chiuZkX.png",NOW SPORTS 5
-http://noparking.pro/live/mario.marano%40hotmail.co.uk/ITPowwgoh6/224808.ts
-#EXTINF:-1 group-title="🔴NOW SPORTS" tvg-logo="https://i.imgur.com/W9kbqti.png",NOW SPORTS 6
-http://noparking.pro/live/mario.marano%40hotmail.co.uk/ITPowwgoh6/224807.ts
-#EXTINF:-1 tvg-id="MAX Sport 1 HD.bg" tvg-chno="17" tvg-logo="https://maxsport.live/wp-content/uploads/2024/07/max-sport-1-logo-1024x182.png" group-title="🔴NOW SPORTS",Max Sport 1 HD
-https://cdn11.glebul.com/hlsfhd/hd-max-sport-1-hd.m3u8?e=1794199787&hash=v8bxyoojujGYftNUvS0eag
-#EXTINF:-1 tvg-id="MAX Sport 2 HD.bg" tvg-chno="18" tvg-logo="https://maxsport.live/wp-content/uploads/2024/07/max-sport-2-logo-1024x182.png" group-title="🔴NOW SPORTS",Max Sport 2 HD
-https://cdn11.glebul.com/hlsfhd/hd-max-sport-2-hd.m3u8?e=1794199800&hash=2fMe3XFgS_6adRTJy4i9NQ
-#EXTINF:-1 tvg-id="MAX Sport 3 HD.bg" tvg-chno="19" tvg-logo="https://maxsport.live/wp-content/uploads/2024/07/max-sport-3-logo-1024x182.png" group-title="🔴NOW SPORTS",Max Sport 3 HD
-https://cdn11.glebul.com/hlsfhd/hd-max-sport-3-hd.m3u8?e=1794199814&hash=M_1JwMwzk5MbflcagD3RGg
-#EXTINF:-1 tvg-id="MAX Sport 4 HD.bg" tvg-chno="20" tvg-logo="https://maxsport.live/wp-content/uploads/2024/07/max-sport-4-logo-1024x182.png" group-title="🔴NOW SPORTS",Max Sport 4 HD
-https://cdn11.glebul.com/hlsfhd/hd-max-sport-4-hd.m3u8?e=1794199828&hash=mwhO9bh3MtSFI8Q3TvxQHg
-#EXTINF:-1 group-title="🔴HUB SPORTS" tvg-logo="https://i.imgur.com/brCgczI.png",HUB SPORTS 5
-        ========SPORT HD========
 #EXTINF:-1 group-title="🔴AF SPORT" tvg-logo="https://i.imgur.com/CWpV1Il.png",BEIN 1 sd
 http://albastargolden.net/live/63EV73W6WL4R1XU/RoRSlXpt26/987011.ts
 #EXTINF:-1 group-title="🔴AF SPORT" tvg-logo="https://i.imgur.com/CWpV1Il.png",BEIN 2 sd
