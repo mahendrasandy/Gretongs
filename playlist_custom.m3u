@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="LIVE" tvg-logo="https://i.postimg.cc/XNKPdJJf/images.jpg" group-title="🔴WHATSAPP",085333640016
 https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=8e59605c-9093-4b0f-a379-161a08d53705&sub=t2
-#EXTINF:-1 tvg-id="LIVE" tvg-logo="https://i.imgur.com/gktNVB9.jpeg" group-title="🔴LIVE", SINGAPORE U23 vs VIETNAM U23
-https://live2.domaincdn.cc/livecdn/channel-2.m3u8?auth_key=3000001794482536-0-0-bf0e8117750737a7f41201c4bc207c6e
 #EXTINF:-1 tvg-id="LIVE" tvg-logo="https://i.imgur.com/gktNVB9.jpeg" group-title="🔴LIVE", LIVE 4
   ==========PLAYLIST IPTV PRO BY ZACK===========
 #EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN5reR_YAbbtGqawoaCyr1EMcDnthW8l2D3w&s", MNCTV 
@@ -22,7 +20,7 @@ https://flv.intechmedia.net/live/ch107.m3u8
 #EXTINF:-1 tvg-id="019" tvg-name="019" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_mentaritv.png" group-title="🔴NASIONAL",Mentari TV
 http://nextgenz.my.id/event/pidio/play.mpd?id=8237&type=dash
 #EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeiWv-pfeDr-OZkVvMbwEcryrWApBmLYMZQy6rUefZWQQxB1oOVnzR6WX3&s=10", ANTV 
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
+http://sansatplus.net:88/live/02081216742655/bMKwqKe4cOvNKlx/694308.ts
 #EXTINF:-1 tvg-id="TransTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSos5wXjL-QZ7iievuU7LoDI22gaf4kCd6FUSOTxf0KupjYixJmv2IP12M&s=10" group-title="🔴NASIONAL",Trans TV
 https://live.cnnindonesia.com/transtv/smil:transtv/chunklist_w2685575259_b744100_sleng.m3u8
 #EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTexTvPrfG8E3lo-tcCfBSOb50TDzjLUyVVFHeiAZC1vPFQPoRHlp7moVg&s=10",TRANS 7
@@ -250,7 +248,7 @@ https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 #EXTINF:-1 group-title="🔴PREMIUM MOVIE" tvg-logo="http://openboxv8s.com/india/star_movies_in_hd.jpg",Star Movies HD
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/movie/flix.jpeg",flix
-http://013tv.com:8080/F33848/cbd9779b/165095
+http://sansatplus.net:88/live/02081216742655/bMKwqKe4cOvNKlx/694333.ts
 #EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/QwBGLzK.png" group-title="🔴PREMIUM MOVIE",AVA Family
 https://familyhls.avatv.live/hls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/amazonmovies.png" group-title="🔴PREMIUM MOVIE",Amazon Movies
@@ -280,23 +278,23 @@ https://52aad07d9d4f4d479d9b27e08ddf9e8b.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="BritBox Mysteries" tvg-name="BritBox Mysteries" tvg-logo="https://i.imgur.com/PJdzoLN.png" group-title="🔴PREMIUM MOVIE",BritBox Mysteries
 https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist.m3u8
 #EXTINF:-1 group-title="🔴AF SPORT" tvg-logo="https://i.imgur.com/CWpV1Il.png",BEIN 1 sd
-http://albastargolden.net/live/63EV73W6WL4R1XU/RoRSlXpt26/987011.ts
+http://sansatplus.net:88/live/02081216742655/bMKwqKe4cOvNKlx/661030.ts
 #EXTINF:-1 group-title="🔴AF SPORT" tvg-logo="https://i.imgur.com/CWpV1Il.png",BEIN 2 sd
-http://albastargolden.net/live/63EV73W6WL4R1XU/RoRSlXpt26/987012.ts
+http://sansatplus.net:88/live/02081216742655/bMKwqKe4cOvNKlx/661031.ts
 #EXTINF:-1 group-title="🔴AF SPORT" tvg-logo="https://i.imgur.com/CWpV1Il.png",BEIN 3 sd
-http://albastargolden.net/live/63EV73W6WL4R1XU/RoRSlXpt26/18109.ts
+http://sansatplus.net:88/live/02081216742655/bMKwqKe4cOvNKlx/661032.ts
 #EXTINF:-1 group-title="🔴AF SPORT" tvg-logo="https://i.imgur.com/CWpV1Il.png",BEIN 4 sd
-http://albastargolden.net/live/63EV73W6WL4R1XU/RoRSlXpt26/18108.ts
+http://sansatplus.net:88/live/02081216742655/bMKwqKe4cOvNKlx/661033.ts
 #EXTINF:-1 group-title="🔴AF SPORT" tvg-logo="https://i.imgur.com/CWpV1Il.png",BEIN 5 sd
-http://albastargolden.net/live/63EV73W6WL4R1XU/RoRSlXpt26/18107.ts
+http://sansatplus.net:88/live/02081216742655/bMKwqKe4cOvNKlx/661034.ts
 #EXTINF:-1 group-title="🔴AF SPORT" tvg-logo="https://i.imgur.com/CWpV1Il.png",BEIN 6 sd
-http://albastargolden.net/live/63EV73W6WL4R1XU/RoRSlXpt26/18106.ts
+http://sansatplus.net:88/live/02081216742655/bMKwqKe4cOvNKlx/661035.ts
 #EXTINF:-1 group-title="🔴AF SPORT" tvg-logo="https://i.imgur.com/CWpV1Il.png",BEIN 7 sd
-http://albastargolden.net/live/63EV73W6WL4R1XU/RoRSlXpt26/551298.ts
+http://sansatplus.net:88/live/02081216742655/bMKwqKe4cOvNKlx/661036.ts
 #EXTINF:-1 group-title="🔴AF SPORT" tvg-logo="https://i.imgur.com/CWpV1Il.png",BEIN 8 sd
-http://albastargolden.net/live/63EV73W6WL4R1XU/RoRSlXpt26/551299.ts
+http://sansatplus.net:88/live/02081216742655/bMKwqKe4cOvNKlx/661037.ts
 #EXTINF:-1 group-title="🔴AF SPORT" tvg-logo="https://i.imgur.com/CWpV1Il.png",BEIN 9 sd
-http://albastargolden.net/live/63EV73W6WL4R1XU/RoRSlXpt26/551300.ts
+http://sansatplus.net:88/live/02081216742655/bMKwqKe4cOvNKlx/661038.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="🔴AF SPORT",ESPN SD
 http://asxc.pro:80/live/887429/DNFgcu/71913.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="🔴AF SPORT",ESPN 2 HD
