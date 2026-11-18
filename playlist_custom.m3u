@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="LIVE" tvg-logo="https://i.postimg.cc/XNKPdJJf/images.jpg" group-title="🔴WHATSAPP",085333640016
+#EXTINF:-1 tvg-id="LIVE" tvg-logo="https://i.imgur.com/u2oTDyd.jpeg" group-title="🔴WHATSAPP",085333640016
 https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=8e59605c-9093-4b0f-a379-161a08d53705&sub=t2
 #EXTINF:-1 tvg-id="LIVE" tvg-logo="https://i.imgur.com/gktNVB9.jpeg" group-title="🔴LIVE", LIVE 4
   ==========PLAYLIST IPTV PRO BY ZACK===========
@@ -12,7 +12,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrLlsooVB274zIGMEQ1kquZCBAK4cnLgnF0d3oRiJV4yM2pTDH8WeKDVE&s=10", iNews 
 https://bintangstreaming.my.id/000/rcti.php/.m3u8?id=inewstv
 #EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYGGEPkFbOq2zNIQS4Imeq4avBxklOVTmQ5p8n3-9o3D-GdIMAwZ_HkeZz&s=10", SCTV
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
+https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
 #EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFAzJ3ZGSY8Xale1mCBlZZ7zDtfxveuxOaEg&s", INDOSIAR 
 https://vidsemar.pages.dev/terraluna3/205.mpd
 #EXTINF:-1 tvg-logo="https://i.imghippo.com/files/gZyT4952CYw.jpg" group-title="🔴NASIONAL",VTV HD
@@ -20,7 +20,7 @@ https://flv.intechmedia.net/live/ch107.m3u8
 #EXTINF:-1 tvg-id="019" tvg-name="019" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_mentaritv.png" group-title="🔴NASIONAL",Mentari TV
 http://nextgenz.my.id/event/pidio/play.mpd?id=8237&type=dash
 #EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeiWv-pfeDr-OZkVvMbwEcryrWApBmLYMZQy6rUefZWQQxB1oOVnzR6WX3&s=10", ANTV 
-http://sansatplus.net:88/live/02081216742655/bMKwqKe4cOvNKlx/694308.ts
+https://proxy-v.rctiplus.id/live/web/antv/index.m3u8
 #EXTINF:-1 tvg-id="TransTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSos5wXjL-QZ7iievuU7LoDI22gaf4kCd6FUSOTxf0KupjYixJmv2IP12M&s=10" group-title="🔴NASIONAL",Trans TV
 https://live.cnnindonesia.com/transtv/smil:transtv/chunklist_w2685575259_b744100_sleng.m3u8
 #EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTexTvPrfG8E3lo-tcCfBSOb50TDzjLUyVVFHeiAZC1vPFQPoRHlp7moVg&s=10",TRANS 7
@@ -193,12 +193,12 @@ https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GJVSFNt/oman.png" group-title="🔴PREMIUM SPORT",OMAN SPORT
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="ActionMAX.HD.us2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Cinemax_Action_2025.svg/revision/latest?cb=20250904230311" group-title="🔴PREMIUM MOVIE",ACTION MAX EAST 
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/995zvakyej/out/v1/3fa049c0afea4a83bb5f508f1859f160/cenc.mpd
-#EXTINF:-1 tvg-id="HBO.Movies.us2" tvg-name="HBO 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/HBO.svg/revision/latest?cb=20250930051253" group-title="🔴PREMIUM MOVIE",HBO 1
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/xrs2ntety1/out/v1/31355dd2ffc64c9dae72ac6fc37dde5a/cenc.mpd
-#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/HBO_2_2016.svg/revision/latest?cb=20171217110043" group-title="🔴PREMIUM MOVIE",HBO 2
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/zilmviiwo5/out/v1/fe78320a319045d99299fb05208d90af/cenc.mpd
+#EXTINF:-1 tvg-id="HBO.Movies.us2" tvg-name="HBO 1" tvg-logo="https://i.imgur.com/9rqhob0.jpeg" group-title="🔴PREMIUM MOVIE",HBO 1
+http://myultratv.com:8080/live/961242461tv/5x3r84x/139.ts
+#EXTINF:-1 tvg-id="HBO.Movies.us2" tvg-name="HBO 1" tvg-logo="https://i.imgur.com/9rqhob0.jpeg" group-title="🔴PREMIUM MOVIE",HBO 2
+http://myultratv.com:8080/live/961242461tv/5x3r84x/132.ts
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2" tvg-logo="https://i.imgur.com/9rqhob0.jpeg" group-title="🔴PREMIUM MOVIE",HBO FAMILY
+http://myultratv.com:8080/live/961242461tv/5x3r84x/136.ts
 #EXTINF:-1 tvg-id="MGM+.HD.us2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/MGM%2B.svg/revision/latest?cb=20230123102734" group-title="🔴PREMIUM MOVIE",MGM+
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ck8h9qqlfr/out/v1/34a373fb214d4e1590a3ab397b2d7af1/cenc.mpd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/MGM_with_Amazon_byline.jpg/revision/latest?cb=20231011015145" group-title="🔴PREMIUM MOVIE",MGM CELEBRATES BLACK CINEMA
@@ -211,10 +211,6 @@ https://livebytsctbu.vtvprime.vn/mean/BOXHIT/manifest.mpd
 https://livebytsctbu.vtvprime.vn/mean/BM1/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_170_122" group-title="🔴PREMIUM MOVIE",ASIAN BOX
 https://cdn4.skygo.mn/live/disk1/AsianBOX/HLSv3-FTA/AsianBOX.m3u8
-#EXTINF:-1 group-title="🔴PREMIUM MOVIE" tvg-logo="http://epg.one/img2/1116.png",Z!Horror HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/14137/index.m3u8
-#EXTINF:-1 group-title="🔴PREMIUM MOVIE" tvg-logo="http://epg.one/img2/8782.png",Z!Thriller HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/31693/index.m3u8
 #EXTINF:-1 group-title="🔴PREMIUM MOVIE" tvg-id="hboasia.sg" tvg-logo="https://dl.dropbox.com/scl/fi/11cogq3f6ewil4xavwnh3/hbo.png?rlkey=2qd8p4fzhaxy4mnk9vkn5v41c&dl=0",HBO 
 http://013tv.com:8080/F33848/cbd9779b/306484
 #EXTINF:-1 group-title="🔴PREMIUM MOVIE" tvg-id="hbohitsasia.sg" tvg-logo="https://dl.dropbox.com/scl/fi/n7pewdemieoz3zbs39tbx/hbohits.png?rlkey=e748k2slpje7h5xy2q9pos5a3&dl=0", HBO Hits
@@ -277,6 +273,28 @@ https://9f8e2ffcd87f4c469be7194e48f84874.mediatailor.us-west-2.amazonaws.com/v1/
 https://52aad07d9d4f4d479d9b27e08ddf9e8b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-808-UK-SONYONETHRILLERTV-LG_UK/playlist.m3u8
 #EXTINF:-1 tvg-id="BritBox Mysteries" tvg-name="BritBox Mysteries" tvg-logo="https://i.imgur.com/PJdzoLN.png" group-title="🔴PREMIUM MOVIE",BritBox Mysteries
 https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist.m3u8
+#EXTINF:-1 group-title="🔴PPV LIVE" tvg-logo="https://i.imgur.com/Q7zP0Ws.jpeg", PPV LIVE 1
+http://myultratv.com:8080/live/961242461tv/5x3r84x/20203.ts
+#EXTINF:-1 group-title="🔴PPV LIVE" tvg-logo="https://i.imgur.com/Q7zP0Ws.jpeg", PPV LIVE 2
+http://myultratv.com:8080/live/961242461tv/5x3r84x/20220.ts
+#EXTINF:-1 group-title="🔴PPV LIVE" tvg-logo="https://i.imgur.com/Q7zP0Ws.jpeg", PPV LIVE 3
+http://myultratv.com:8080/live/961242461tv/5x3r84x/20233.ts
+#EXTINF:-1 group-title="🔴PPV LIVE" tvg-logo="https://i.imgur.com/Q7zP0Ws.jpeg", PPV LIVE 4
+http://myultratv.com:8080/live/961242461tv/5x3r84x/20285.ts
+#EXTINF:-1 group-title="🔴PPV LIVE" tvg-logo="https://i.imgur.com/Q7zP0Ws.jpeg", PPV LIVE 5
+http://myultratv.com:8080/live/961242461tv/5x3r84x/20286.ts
+#EXTINF:-1 group-title="🔴PPV LIVE" tvg-logo="https://i.imgur.com/Q7zP0Ws.jpeg", PPV UFC FIGHT PASS 1
+http://myultratv.com:8080/live/961242461tv/5x3r84x/20382.ts
+#EXTINF:-1 group-title="🔴PPV LIVE" tvg-logo="https://i.imgur.com/Q7zP0Ws.jpeg", PPV UFC FIGHT PASS 2
+http://myultratv.com:8080/live/961242461tv/5x3r84x/20430.ts
+#EXTINF:-1 group-title="🔴PPV LIVE" tvg-logo="https://i.imgur.com/Q7zP0Ws.jpeg", PPV WWE NETWORK 1
+http://myultratv.com:8080/live/961242461tv/5x3r84x/20509.ts
+#EXTINF:-1 group-title="🔴PPV LIVE" tvg-logo="https://i.imgur.com/zAezIB6.jpeg", ESPN PREMIUM 1
+http://myultratv.com:8080/live/961242461tv/5x3r84x/542.ts
+#EXTINF:-1 group-title="🔴PPV LIVE" tvg-logo="https://i.imgur.com/zAezIB6.jpeg", ESPN PREMIUM 2
+http://myultratv.com:8080/live/961242461tv/5x3r84x/543.ts
+#EXTINF:-1 group-title="🔴PPV LIVE" tvg-logo="https://i.imgur.com/zAezIB6.jpeg", ESPN PREMIUM 3
+http://myultratv.com:8080/live/961242461tv/5x3r84x/544.ts
 #EXTINF:-1 group-title="🔴AF SPORT" tvg-logo="https://i.imgur.com/CWpV1Il.png",BEIN 1 sd
 http://sansatplus.net:88/live/02081216742655/bMKwqKe4cOvNKlx/661030.ts
 #EXTINF:-1 group-title="🔴AF SPORT" tvg-logo="https://i.imgur.com/CWpV1Il.png",BEIN 2 sd
