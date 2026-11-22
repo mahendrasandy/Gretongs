@@ -1,22 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="LIVE" tvg-logo="https://i.imgur.com/u2oTDyd.jpeg" group-title="🔴WHATSAPP",085333640016
 https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=8e59605c-9093-4b0f-a379-161a08d53705&sub=t2
-#EXTINF:-1 tvg-id="LIVE" tvg-logo="https://i.imgur.com/gktNVB9.jpeg" group-title="🔴LIVE", 18:20_ BHUTAN U17 vs SYIRIA U17
-https://live2.jorvakstreamcache.com/live/channel9.m3u8
-#EXTINF:-1 tvg-id="LIVE" tvg-logo="https://i.imgur.com/gktNVB9.jpeg" group-title="🔴LIVE", 19:00_ DEWA UTD vs PERSITA
-https://live2.jorvakstreamcache.com/live/channel19.m3u8
-#EXTINF:-1 tvg-id="LIVE" tvg-logo="https://i.imgur.com/gktNVB9.jpeg" group-title="🔴LIVE", 19:00_ THAILAND U17 vs IRAQ U17
-https://live2.jorvakstreamcache.com/live/channel18.m3u8
-#EXTINF:-1 tvg-id="LIVE" tvg-logo="https://i.imgur.com/gktNVB9.jpeg" group-title="🔴LIVE", 19:00_ IRAN U17 vs LAOS U17
-https://live2.jorvakstreamcache.com/live/channel17.m3u8
-#EXTINF:-1 tvg-id="LIVE" tvg-logo="https://i.imgur.com/gktNVB9.jpeg" group-title="🔴LIVE", 19:00_ MONGOLIA U17 vs KYRGYZTAN U17
-https://live2.domaincdn.cc/livecdn/channel-21.m3u8?auth_key=3000001795172991-0-0-991051af0239839ecd5fb3d333a2c1b3
-#EXTINF:-1 tvg-id="LIVE" tvg-logo="https://i.imgur.com/gktNVB9.jpeg" group-title="🔴LIVE", 20:00_ BELGIUM U17 vs VIETNAM U17
-https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001795173096-0-0-2ab0af3a7d67c74d04ac5a1c71480f5e
-#EXTINF:-1 tvg-id="LIVE" tvg-logo="https://i.imgur.com/gktNVB9.jpeg" group-title="🔴LIVE", 20:00_ INDIA U17 vs MALAYSIA U17
-https://live2.jorvakstreamcache.com/live/channel4.m3u8
+#EXTINF:-1 tvg-id="LIVE" tvg-logo="https://i.imgur.com/gktNVB9.jpeg" group-title="🔴LIVE", 19:00_ PSM MAKASSAR vs PERSIJA JAKARTA
+https://live2.jorvakstreamcache.com/live/channel20.m3u8
+#EXTINF:-1 tvg-id="LIVE" tvg-logo="https://i.imgur.com/gktNVB9.jpeg" group-title="🔴LIVE", 19:00_ BHAYANGKARA FC vs PERSIJAP JEPARA
+https://live2.jorvakstreamcache.com/live/channel7.m3u8
 #EXTINF:-1 tvg-id="LIVE" tvg-logo="https://i.imgur.com/gktNVB9.jpeg" group-title="🔴LIVE", 20:00_ LEBANON U17 vs BAHRAIN U17
-https://live2.jorvakstreamcache.com/live/channel28.m3u8
+  ==========PLAYLIST IPTV PRO BY ZACK===========
 #EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN5reR_YAbbtGqawoaCyr1EMcDnthW8l2D3w&s", MNCTV 
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 #EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtUOUlxejAsHRp5clHl6TFuxKb64H1oe6VKw&s", RCTI 
