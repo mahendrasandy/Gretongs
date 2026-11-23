@@ -1,10 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="LIVE" tvg-logo="https://i.imgur.com/u2oTDyd.jpeg" group-title="🔴WHATSAPP",085333640016
 https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=8e59605c-9093-4b0f-a379-161a08d53705&sub=t2
-#EXTINF:-1 tvg-id="LIVE" tvg-logo="https://i.imgur.com/gktNVB9.jpeg" group-title="🔴LIVE", 19:00_ PSM MAKASSAR vs PERSIJA JAKARTA
-https://live2.jorvakstreamcache.com/live/channel20.m3u8
-#EXTINF:-1 tvg-id="LIVE" tvg-logo="https://i.imgur.com/gktNVB9.jpeg" group-title="🔴LIVE", 19:00_ BHAYANGKARA FC vs PERSIJAP JEPARA
-https://live2.jorvakstreamcache.com/live/channel7.m3u8
+#EXTINF:-1 tvg-id="LIVE" tvg-logo="https://i.imgur.com/gktNVB9.jpeg" group-title="🔴LIVE", 15:30_ ADHYAKSA vs BORNEO FC
+https://tg171gr4ugmtwgczdrpbufa5demmcpf5gkce.100ycdn.com/live1.quickscoreboardz.com/live/channel62/playlist.m3u8?wsSecret=af86b51bad85d49c3d1fdf50a5765eeb&wsABSTime=1795377731&wsSession=e40a197dccc713d5b47a2add-179533456608889&wsIPSercert=f02ab771a11314ccf70994aed4bacb11&wsBindIP=2&wsserid=1168311488301117546
 #EXTINF:-1 tvg-id="LIVE" tvg-logo="https://i.imgur.com/gktNVB9.jpeg" group-title="🔴LIVE", 20:00_ LEBANON U17 vs BAHRAIN U17
   ==========PLAYLIST IPTV PRO BY ZACK===========
 #EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN5reR_YAbbtGqawoaCyr1EMcDnthW8l2D3w&s", MNCTV 
@@ -300,23 +298,23 @@ http://myultratv.com:8080/live/961242461tv/5x3r84x/543.ts
 #EXTINF:-1 group-title="🔴PPV LIVE" tvg-logo="https://i.imgur.com/zAezIB6.jpeg", ESPN PREMIUM 3
 http://myultratv.com:8080/live/961242461tv/5x3r84x/544.ts
 #EXTINF:-1 group-title="🔴AF SPORT" tvg-logo="https://i.imgur.com/CWpV1Il.png",BEIN 1 sd
-http://sansatplus.net:88/live/02081216742655/bMKwqKe4cOvNKlx/661030.ts
+http://ott.kootv.us/play/live.php?mac=00:1a:79:b5:a7:3b&stream=1156613&extension=ts&play_token=FspvXMOJc6
 #EXTINF:-1 group-title="🔴AF SPORT" tvg-logo="https://i.imgur.com/CWpV1Il.png",BEIN 2 sd
-http://sansatplus.net:88/live/02081216742655/bMKwqKe4cOvNKlx/661031.ts
+http://ott.kootv.us/play/live.php?mac=00:1a:79:b5:a7:3b&stream=1156612&extension=ts&play_token=GlnB7h5Svh
 #EXTINF:-1 group-title="🔴AF SPORT" tvg-logo="https://i.imgur.com/CWpV1Il.png",BEIN 3 sd
-http://sansatplus.net:88/live/02081216742655/bMKwqKe4cOvNKlx/661032.ts
+http://ott.kootv.us/play/live.php?mac=00:1a:79:b5:a7:3b&stream=1156611&extension=ts&play_token=jaV6xL2jEP
 #EXTINF:-1 group-title="🔴AF SPORT" tvg-logo="https://i.imgur.com/CWpV1Il.png",BEIN 4 sd
-http://sansatplus.net:88/live/02081216742655/bMKwqKe4cOvNKlx/661033.ts
+http://ott.kootv.us/play/live.php?mac=00:1a:79:b5:a7:3b&stream=1156610&extension=ts&play_token=c81yyjah5W
 #EXTINF:-1 group-title="🔴AF SPORT" tvg-logo="https://i.imgur.com/CWpV1Il.png",BEIN 5 sd
-http://sansatplus.net:88/live/02081216742655/bMKwqKe4cOvNKlx/661034.ts
+http://ott.kootv.us/play/live.php?mac=00:1a:79:b5:a7:3b&stream=1156609&extension=ts&play_token=85LXw3KOZz
 #EXTINF:-1 group-title="🔴AF SPORT" tvg-logo="https://i.imgur.com/CWpV1Il.png",BEIN 6 sd
-http://sansatplus.net:88/live/02081216742655/bMKwqKe4cOvNKlx/661035.ts
+http://ott.kootv.us/play/live.php?mac=00:1a:79:b5:a7:3b&stream=1156608&extension=ts&play_token=IWotvxfdrZ
 #EXTINF:-1 group-title="🔴AF SPORT" tvg-logo="https://i.imgur.com/CWpV1Il.png",BEIN 7 sd
-http://sansatplus.net:88/live/02081216742655/bMKwqKe4cOvNKlx/661036.ts
+http://ott.kootv.us/play/live.php?mac=00:1a:79:b5:a7:3b&stream=1156607&extension=ts&play_token=m24AkJGIUi
 #EXTINF:-1 group-title="🔴AF SPORT" tvg-logo="https://i.imgur.com/CWpV1Il.png",BEIN 8 sd
-http://sansatplus.net:88/live/02081216742655/bMKwqKe4cOvNKlx/661037.ts
+http://ott.kootv.us/play/live.php?mac=00:1a:79:b5:a7:3b&stream=1156606&extension=ts&play_token=IisXkg5jcE
 #EXTINF:-1 group-title="🔴AF SPORT" tvg-logo="https://i.imgur.com/CWpV1Il.png",BEIN 9 sd
-http://sansatplus.net:88/live/02081216742655/bMKwqKe4cOvNKlx/661038.ts
+http://ott.kootv.us/play/live.php?mac=00:1a:79:b5:a7:3b&stream=1156605&extension=ts&play_token=FSmLMYGm5t
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="🔴AF SPORT",ESPN SD
 http://asxc.pro:80/live/887429/DNFgcu/71913.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="🔴AF SPORT",ESPN 2 HD
