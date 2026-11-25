@@ -1,9 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="LIVE" tvg-logo="https://i.imgur.com/u2oTDyd.jpeg" group-title="🔴WHATSAPP",085333640016
 https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=8e59605c-9093-4b0f-a379-161a08d53705&sub=t2
-#EXTINF:-1 tvg-id="LIVE" tvg-logo="https://i.imgur.com/gktNVB9.jpeg" group-title="🔴LIVE", 15:30_ ADHYAKSA vs BORNEO FC
-https://tg171gr4ugmtwgczdrpbufa5demmcpf5gkce.100ycdn.com/live1.quickscoreboardz.com/live/channel62/playlist.m3u8?wsSecret=af86b51bad85d49c3d1fdf50a5765eeb&wsABSTime=1795377731&wsSession=e40a197dccc713d5b47a2add-179533456608889&wsIPSercert=f02ab771a11314ccf70994aed4bacb11&wsBindIP=2&wsserid=1168311488301117546
-#EXTINF:-1 tvg-id="LIVE" tvg-logo="https://i.imgur.com/gktNVB9.jpeg" group-title="🔴LIVE", 20:00_ LEBANON U17 vs BAHRAIN U17
+#EXTINF:-1 tvg-id="LIVE" tvg-logo="https://i.imgur.com/gktNVB9.jpeg" group-title="🔴LIVE", 20:45_ EAST BENGAL vs AL HUSSEIN SC
   ==========PLAYLIST IPTV PRO BY ZACK===========
 #EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN5reR_YAbbtGqawoaCyr1EMcDnthW8l2D3w&s", MNCTV 
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
@@ -53,6 +51,28 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
 #EXTINF:-1 group-title="🔴NASIONAL" tvg-id="GARUDATV.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmNB9OGzinChxmzFzLV0VlS6qsNMtGsO5hTGVYjn4Sf_zB2M6UF8neicI&s=10",Garuda TV HD
 https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
+#EXTINF:-1 group-title="🔴MUROTAL AL-QUR'AN" tvg-logo="https://i.imgur.com/Ca4BLmb.jpeg", LINK 1
+http://cf-dana.com:8080/live/asmaaxabdeljaber/hd02584025/563615.ts
+#EXTINF:-1 group-title="🔴MUROTAL AL-QUR'AN" tvg-logo="https://i.imgur.com/Ca4BLmb.jpeg", LINK 2
+http://cf-dana.com:8080/live/asmaaxabdeljaber/hd02584025/563616.ts
+#EXTINF:-1 group-title="🔴MUROTAL AL-QUR'AN" tvg-logo="https://i.imgur.com/Ca4BLmb.jpeg", LINK 3
+http://cf-dana.com:8080/live/asmaaxabdeljaber/hd02584025/563617.ts
+#EXTINF:-1 group-title="🔴MUROTAL AL-QUR'AN" tvg-logo="https://i.imgur.com/Ca4BLmb.jpeg", LINK 4
+http://cf-dana.com:8080/live/asmaaxabdeljaber/hd02584025/563618.ts
+#EXTINF:-1 group-title="🔴MUROTAL AL-QUR'AN" tvg-logo="https://i.imgur.com/Ca4BLmb.jpeg", LINK 5
+http://cf-dana.com:8080/live/asmaaxabdeljaber/hd02584025/563619.ts
+#EXTINF:-1 group-title="🔴MUROTAL AL-QUR'AN" tvg-logo="https://i.imgur.com/Ca4BLmb.jpeg", LINK 6
+http://cf-dana.com:8080/live/asmaaxabdeljaber/hd02584025/563621.ts
+#EXTINF:-1 group-title="🔴MUROTAL AL-QUR'AN" tvg-logo="https://i.imgur.com/Ca4BLmb.jpeg", LINK 7
+http://cf-dana.com:8080/live/asmaaxabdeljaber/hd02584025/563622.ts
+#EXTINF:-1 group-title="🔴MUROTAL AL-QUR'AN" tvg-logo="https://i.imgur.com/Ca4BLmb.jpeg", LINK 8
+http://cf-dana.com:8080/live/asmaaxabdeljaber/hd02584025/563625.ts
+#EXTINF:-1 group-title="🔴MUROTAL AL-QUR'AN" tvg-logo="https://i.imgur.com/Ca4BLmb.jpeg", LINK 9
+http://cf-dana.com:8080/live/asmaaxabdeljaber/hd02584025/563627.ts
+#EXTINF:-1 group-title="🔴MUROTAL AL-QUR'AN" tvg-logo="https://i.imgur.com/Ca4BLmb.jpeg", LINK 10
+http://cf-dana.com:8080/live/asmaaxabdeljaber/hd02584025/563634.ts
+#EXTINF:-1 group-title="🔴MUROTAL AL-QUR'AN" tvg-logo="https://i.imgur.com/Ca4BLmb.jpeg", LINK 11
+http://cf-dana.com:8080/live/asmaaxabdeljaber/hd02584025/563636.ts
 #EXTINF:-1 tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="🔴MALAYSIA",TV 1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd?id=1
 #EXTINF:-1 tvg-logo="https://tv2.rtm.gov.my/assets/img/TV2.png" group-title="🔴MALAYSIA",TV 2
@@ -275,6 +295,28 @@ https://9f8e2ffcd87f4c469be7194e48f84874.mediatailor.us-west-2.amazonaws.com/v1/
 https://52aad07d9d4f4d479d9b27e08ddf9e8b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-808-UK-SONYONETHRILLERTV-LG_UK/playlist.m3u8
 #EXTINF:-1 tvg-id="BritBox Mysteries" tvg-name="BritBox Mysteries" tvg-logo="https://i.imgur.com/PJdzoLN.png" group-title="🔴PREMIUM MOVIE",BritBox Mysteries
 https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist.m3u8
+#EXTINF:-1 group-title="🔴DISNEY+ VIP" tvg-logo="https://i.imgur.com/ocRElfG.png", DISNEY+ 1
+http://line.conex-tivi.cc/live/R6GJ59/W1FHJP/823897.ts
+#EXTINF:-1 group-title="🔴DISNEY+ VIP" tvg-logo="https://i.imgur.com/ocRElfG.png", DISNEY+ 2
+http://line.conex-tivi.cc/live/R6GJ59/W1FHJP/823898.ts
+#EXTINF:-1 group-title="🔴DISNEY+ VIP" tvg-logo="https://i.imgur.com/ocRElfG.png", DISNEY+ 3
+http://line.conex-tivi.cc/live/R6GJ59/W1FHJP/823900.ts
+#EXTINF:-1 group-title="🔴DISNEY+ VIP" tvg-logo="https://i.imgur.com/ocRElfG.png", DISNEY+ 4
+http://line.conex-tivi.cc/live/R6GJ59/W1FHJP/823900.ts
+#EXTINF:-1 group-title="🔴DISNEY+ VIP" tvg-logo="https://i.imgur.com/ocRElfG.png", DISNEY+ 5
+http://line.conex-tivi.cc/live/R6GJ59/W1FHJP/823901.ts
+#EXTINF:-1 group-title="🔴DISNEY+ VIP" tvg-logo="https://i.imgur.com/ocRElfG.png", DISNEY+ 6
+http://line.conex-tivi.cc/live/R6GJ59/W1FHJP/823903.ts
+#EXTINF:-1 group-title="🔴DISNEY+ VIP" tvg-logo="https://i.imgur.com/ocRElfG.png", DISNEY+ 7
+http://line.conex-tivi.cc/live/R6GJ59/W1FHJP/823905.ts
+#EXTINF:-1 group-title="🔴DISNEY+ VIP" tvg-logo="https://i.imgur.com/ocRElfG.png", DISNEY+ 8
+http://line.conex-tivi.cc/live/R6GJ59/W1FHJP/823902.ts
+#EXTINF:-1 group-title="🔴DISNEY+ VIP" tvg-logo="https://i.imgur.com/ocRElfG.png", DISNEY+ 9
+http://line.conex-tivi.cc/live/R6GJ59/W1FHJP/823906.ts
+#EXTINF:-1 group-title="🔴DISNEY+ VIP" tvg-logo="https://i.imgur.com/ocRElfG.png", DISNEY+ 10
+http://line.conex-tivi.cc/live/R6GJ59/W1FHJP/823904.ts
+#EXTINF:-1 group-title="🔴DISNEY+ VIP" tvg-logo="https://i.imgur.com/ocRElfG.png", DISNEY+ 11
+http://line.conex-tivi.cc/live/R6GJ59/W1FHJP/823907.ts
 #EXTINF:-1 group-title="🔴PPV LIVE" tvg-logo="https://i.imgur.com/Q7zP0Ws.jpeg", PPV LIVE 1
 http://myultratv.com:8080/live/961242461tv/5x3r84x/20203.ts
 #EXTINF:-1 group-title="🔴PPV LIVE" tvg-logo="https://i.imgur.com/Q7zP0Ws.jpeg", PPV LIVE 2
