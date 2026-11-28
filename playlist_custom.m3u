@@ -1,14 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="LIVE" tvg-logo="https://i.imgur.com/u2oTDyd.jpeg" group-title="🔴WHATSAPP",085333640016
 https://ptv2026.com/get_max.mpd?username=vip_3klp0es8&password=wg3piwEs&editId=8e59605c-9093-4b0f-a379-161a08d53705&sub=t2
-#EXTINF:-1 group-title="🔴LIVE" tvg-logo="https://i.imgur.com/gktNVB9.jpeg", 19:15 WIB Persib vs Seoul
-https://nontonlagi.rctiplus.id/abvia/persib/manifest720.m3u8
-#EXTINF:-1 tvg-id="LIVE" tvg-logo="https://i.imgur.com/gktNVB9.jpeg" group-title="🔴LIVE", DELTRAS SIDOARJO vs PERSIK KEDIRI
-https://live3979.zundrixmediapipeline.com/live/channel18.m3u8
-#EXTINF:-1 tvg-id="LIVE" tvg-logo="https://i.imgur.com/gktNVB9.jpeg" group-title="🔴LIVE", BALI UTD vs BARITO PUTERA
-https://live2.streamhaulcdn.com/livecdn/channel-19.m3u8?auth_key=3000001795609123-0-0-08f8ebe868bdc17982cd26d10d6d1b1b
-#EXTINF:-1 tvg-id="LIVE" tvg-logo="https://i.imgur.com/gktNVB9.jpeg" group-title="🔴LIVE", PSM MAKASSAR vs PERSIPURA JAYAPURA
-https://live3979.zundrixmediapipeline.com/live/channel9.m3u8
 #EXTINF:-1 tvg-id="LIVE" tvg-logo="https://i.imgur.com/gktNVB9.jpeg" group-title="🔴LIVE", 20:45_ EAST BENGAL vs AL HUSSEIN SC
   ==========PLAYLIST IPTV PRO BY ZACK===========
 #EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN5reR_YAbbtGqawoaCyr1EMcDnthW8l2D3w&s", MNCTV 
@@ -20,9 +12,9 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrLlsooVB274zIGMEQ1kquZCBAK4cnLgnF0d3oRiJV4yM2pTDH8WeKDVE&s=10", iNews 
 https://proxy-v.rctiplus.id/live/web/inews/index.m3u8
 #EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYGGEPkFbOq2zNIQS4Imeq4avBxklOVTmQ5p8n3-9o3D-GdIMAwZ_HkeZz&s=10", SCTV
-https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
+https://vidio123.mikrofast.web.id/vidio/204/index.mpd
 #EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFAzJ3ZGSY8Xale1mCBlZZ7zDtfxveuxOaEg&s", INDOSIAR 
-https://vidsemar.pages.dev/terraluna3/205.mpd
+https://vidio123.mikrofast.web.id/vidio/205/index.mpd
 #EXTINF:-1 tvg-logo="https://i.imghippo.com/files/gZyT4952CYw.jpg" group-title="🔴NASIONAL",VTV HD
 https://flv.intechmedia.net/live/ch107.m3u8
 #EXTINF:-1 tvg-id="019" tvg-name="019" tvg-logo="http://wsrv.nl/?url=http://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_mentaritv.png" group-title="🔴NASIONAL",Mentari TV
